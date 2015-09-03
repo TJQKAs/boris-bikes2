@@ -4,4 +4,4 @@
 | Docking Station | release_bike |
 | Person          |              |
 
-Person ----> Docking Station -----> release_bike ----> Bike ---> working? 
+Person ----> Docking Station -----> release_bike ----> Bike ---> working?
